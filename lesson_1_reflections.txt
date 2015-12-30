@@ -32,3 +32,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
     Fill in your answer here
 
+How do the diagrams help you visualize the branch structure?
